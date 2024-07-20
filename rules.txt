@@ -1,0 +1,11 @@
+GOAL: Clear out every tile on the board without clicking any mines
+
+Left-click on a tile to clear it.
+Empty tiles will indicate the number of adjacent mines.
+If you click on a mine, it's game over!
+
+Set/remove a flag (represented by an orange tile) with the right-mouse button.
+Flags prevent a tile from being cleared. Use flags to mark tiles where you think there's a mine.
+
+Use the number of adjacent mines to find where mines are, then mark them with flags.
+
